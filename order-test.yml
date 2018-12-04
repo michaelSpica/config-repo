@@ -14,7 +14,7 @@ spring:
         hbm2ddl:
           auto: update
         dialect: org.hibernate.dialect.MySQL5Dialect
-env: test22
+env: test23
 girl:
   name: lili
-  age: 22
+  age: 23
