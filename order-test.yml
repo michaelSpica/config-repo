@@ -17,4 +17,4 @@ spring:
 env: test40
 girl:
   name: amy
-  age: 39
+  age: 40
