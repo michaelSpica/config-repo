@@ -16,5 +16,5 @@ spring:
         dialect: org.hibernate.dialect.MySQL5Dialect
 env: test38
 girl:
-  name: lili
+  name: amy
   age: 38
